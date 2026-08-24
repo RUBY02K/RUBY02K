@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I am a Computer Science student with a strong interest in **Java Full-Stack Development** and **AI-based real-world systems**.
+I am a  Btech Computer Science graduate with a strong interest in **Java Full-Stack Development** and **AI-based real-world systems**.
 
 I have worked on projects like an **AI-based Smart Traffic Management System** and enjoy building scalable applications using **Java, Spring Boot, and REST APIs**. Alongside development, I actively practice **Data Structures & Algorithms** and explore **system design fundamentals**.
 
